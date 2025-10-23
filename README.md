@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou [Renan Straquicini] 👋
 
-<!--
-**Straquicini/Straquicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação da **OFICINA - Escola Profissional**.  
 
-Here are some ideas to get you started:
+💻 **Atualmente estudando:**  
+- Lógica de programação  
+- Desenvolvimento web
+- Backend
+- Projetos pessoais e desafios de código  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Objetivo:** Aprender continuamente, criar projetos práticos e compartilhar conhecimento.  
+
+📫 **Contatos:**  
+- [linkedin.com/in/RenanStraquicini]
+- [renan.straquicini09@gmail.com]
