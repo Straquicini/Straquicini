@@ -1,4 +1,4 @@
-# Olá, eu sou [Renan Straquicini] 👋
+# Renan Straquicini 👋
 
 Sou estudante de programação da **OFICINA - Escola Profissional**.  
 
