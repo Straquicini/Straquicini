@@ -36,15 +36,15 @@ Sou estudante de programação, apaixonado por tecnologia e pelo desafio de tran
 
 Gosto de explorar novas ferramentas, desenvolver projetos e compreender como as coisas funcionam por trás dos ecrãs. Estou sempre a aprender, a experimentar e a evoluir como programador.
 
-### 🧠 O que me move
+### Interesses
 
-- 💻 **Desenvolvimento de Software** — criar soluções e resolver problemas.
-- 🌐 **Desenvolvimento Web** — transformar ideias em experiências digitais.
-- 🎮 **Desenvolvimento Jogos** — transformar ideias em experiências digitais.
-- ⚙️ **Automação e RPA** — simplificar processos e otimizar tarefas.
-- 🧩 **Aprendizagem contínua** — explorar tecnologias e melhorar a cada projeto.
+- **Desenvolvimento de Software** — criar soluções e resolver problemas.
+- **Desenvolvimento Web** — transformar ideias em experiências digitais.
+- **Desenvolvimento Jogos** — transformar ideias em experiências digitais.
+- **Automação e RPA** — simplificar processos e otimizar tarefas.
+- **Aprendizagem contínua** — explorar tecnologias e melhorar a cada projeto.
 
-### 🎯 A minha missão
+### Missão
 
 > Transformar curiosidade em conhecimento, ideias em projetos e desafios em oportunidades para evoluir.
 
@@ -54,12 +54,12 @@ Gosto de explorar novas ferramentas, desenvolver projetos e compreender como as 
 
 ---
 
-### ⚡ Um pouco sobre mim
+### Sobre mim
 
-- 🔭 **A explorar:** novas tecnologias e projetos de programação.
-- 🛠️ **A desenvolver:** competências em software, web, jogos e automação.
-- 🌱 **Sempre a aprender:** boas práticas, lógica de programação e novas ferramentas.
-- 🎮 **Estilo:** um pouco de código, criatividade e pixel art.
+- **A explorar:** novas tecnologias e projetos de programação.
+- **A desenvolver:** competências em software, web, jogos e automação.
+- **Sempre a aprender:** boas práticas, lógica de programação e novas ferramentas.
+- **Estilo:** um pouco de código, criatividade e designer.
 
 ---
 
